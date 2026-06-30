@@ -1,0 +1,16 @@
+google-genai
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+twilio
+sounddevice
+scipy
+numpy
+SpeechRecognition
+pyttsx3
+python-dotenv
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pydantic
